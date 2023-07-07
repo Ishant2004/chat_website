@@ -47,4 +47,4 @@ yarn start
 - Ishant Rohilla(mail_id : i.rohilla@iitg.ac.in)
 - Rohit Kohli(mail_id : rohit.kohli@iitg.ac.in)
 - Khushi Bhatt(mail_id : b.khushi@iitg.ac.in)
-- Abhishek Kumar(mail_id : abhishek.eee21@iitg.ac.in)
+- Abhishek Kumar(mail_id : abhishek.eee21@iitg.ac.in)(group leader)
