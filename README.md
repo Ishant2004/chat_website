@@ -1,4 +1,4 @@
-# Chat_Website
+# Real-Time-Chat
 - It's a chat application build with MERN Stack.
 - It uses socket.io library for low-latency communication between client and server.
 
