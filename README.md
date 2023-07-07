@@ -12,7 +12,7 @@ Both should be installed and make sure mongodb is running.
 
 ```shell
 git clone https://github.com/Ishant2004/chat_website.git
-cd chat-app-react-nodejs
+cd chat_website
 ```
 
 Now install the dependencies
