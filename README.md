@@ -48,3 +48,4 @@ yarn start
 - Ishant Rohilla(mail_id : i.rohilla@iitg.ac.in)
 - Khushi Bhatt(mail_id : b.khushi@iitg.ac.in)
 - Rohit Kohli(mail_id : rohit.kohli@iitg.ac.in)
+- Keshav Goyal(mail_id : g.keshav@iitg.ac.in)
