@@ -4,7 +4,7 @@
 
 ## Installation Guide
 
-## Requirements
+### Requirements
 - [Nodejs](https://nodejs.org/en/download)
 - [Mongodb](https://www.mongodb.com/docs/manual/administration/install-community/)
 
@@ -37,7 +37,7 @@ cd server
 yarn start
 ```
 
-## Done!
+### Done!
 - Now open localhost:3000 in your browser.
 - open localhost:3000 in incognito mode.
 - In both window register as a new user.
